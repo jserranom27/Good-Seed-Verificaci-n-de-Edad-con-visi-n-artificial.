@@ -32,7 +32,7 @@ Histograma que muestra la diversidad de edades en el conjunto de datos.
 
 ### 2. **Muestras de Imágenes con Etiquetas:**  
 Ejemplos aleatorios del dataset, cada imagen acompañada de su etiqueta de edad.
-![Muestras de Imágenes](good_seed_ramdon_de_10_imagenes_para_verificacion_de_conjunto.png)
+![Muestras de Imágenes](https://github.com/jserranom27/Good-Seed-Verificaci-n-de-Edad-con-visi-n-artificial./blob/main/good_seed%20ramdon%20de%2010%20imagenes%20para%20verificacion%20de%20conjunto%202.png)
 
 ## Conclusiones
 El proyecto demuestra la viabilidad de aplicar técnicas de visión artificial para verificar la edad, asegurando el cumplimiento de las normativas de venta de alcohol. La solución, basada en transfer learning con ResNet50, ofrece una herramienta robusta para identificar de manera precisa a clientes elegibles, garantizando transacciones seguras en entornos comerciales.
