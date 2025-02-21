@@ -2,7 +2,7 @@
   <img src="good_seed_banner.jpg" alt="Banner del Proyecto" width="100%">
 </div>
 
-# Proyecto de Ciencia de Datos: [**Good Seed – Verificación de Edad con visión artificial**](vision_para_goood_seed.ipynb) 🍇
+# Proyecto de Ciencia de Datos: [**Good Seed – Verificación de Edad con visión artificial**](https://github.com/jserranom27/Good-Seed-Verificaci-n-de-Edad-con-visi-n-artificial./blob/main/vision_para_good_seed.ipynb) 🍇
 
 ## Descripción
 Good Seed, una cadena de supermercados, busca explorar cómo la ciencia de datos puede ayudar a cumplir las normativas de venta de alcohol, asegurándose de que solo se venda a personas mayores de edad. Este proyecto se centra en construir y evaluar un modelo de visión artificial que, a partir de fotografías capturadas en el área de pago, determine la edad de los clientes. La solución utiliza un conjunto de imágenes faciales y sus etiquetas para entrenar un modelo basado en ResNet50 preentrenado, ajustado para predecir la edad mediante una tarea de regresión.
