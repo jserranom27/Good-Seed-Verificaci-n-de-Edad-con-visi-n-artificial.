@@ -28,7 +28,7 @@ Good Seed, una cadena de supermercados, busca explorar cómo la ciencia de datos
 ## Imágenes del Análisis
 ### 1. **Distribución de Edades en el Dataset:**  
 Histograma que muestra la diversidad de edades en el conjunto de datos.
-![Distribución de Edades](good_seed_distribuciones_de_edades_en_el_cojunto_de_datos.png)
+![Distribución de Edades](https://github.com/jserranom27/Good-Seed-Verificaci-n-de-Edad-con-visi-n-artificial./blob/main/good_seed%20distribucion%20de%20edades%20en%20el%20conjunto%20de%20datos.png)
 
 ### 2. **Muestras de Imágenes con Etiquetas:**  
 Ejemplos aleatorios del dataset, cada imagen acompañada de su etiqueta de edad.
