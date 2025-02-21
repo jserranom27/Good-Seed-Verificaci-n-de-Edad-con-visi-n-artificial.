@@ -28,11 +28,11 @@ Good Seed, una cadena de supermercados, busca explorar cómo la ciencia de datos
 ## Imágenes del Análisis
 ### 1. **Distribución de Edades en el Dataset:**  
 Histograma que muestra la diversidad de edades en el conjunto de datos.
-![Distribución de Edades](ruta/a/imagen_histograma.jpg)
+![Distribución de Edades](good_seed_distribuciones_de_edades_en_el_cojunto_de_datos.png)
 
 ### 2. **Muestras de Imágenes con Etiquetas:**  
 Ejemplos aleatorios del dataset, cada imagen acompañada de su etiqueta de edad.
-![Muestras de Imágenes](ruta/a/imagen_muestras.jpg)
+![Muestras de Imágenes](good_seed_ramdon_de_10_imagenes_para_verificacion_de_conjunto.png)
 
 ## Conclusiones
 El proyecto demuestra la viabilidad de aplicar técnicas de visión artificial para verificar la edad, asegurando el cumplimiento de las normativas de venta de alcohol. La solución, basada en transfer learning con ResNet50, ofrece una herramienta robusta para identificar de manera precisa a clientes elegibles, garantizando transacciones seguras en entornos comerciales.
@@ -41,7 +41,3 @@ El proyecto demuestra la viabilidad de aplicar técnicas de visión artificial p
 - Refinar el modelo para mejorar la precisión en la predicción de la edad.
 - Explorar técnicas de data augmentation para aumentar la diversidad del dataset.
 - Integrar la solución en el flujo operativo del supermercado para pruebas en tiempo real.
-
----
-
-Este README resume el enfoque integral del proyecto, destacando tanto la metodología de análisis y modelado como su relevancia para el cumplimiento normativo y la seguridad en las transacciones.
