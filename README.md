@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="good_seed_banner.jpg" alt="Banner del Proyecto" width="100%">
+  <img src="https://github.com/jserranom27/Good-Seed-Verificaci-n-de-Edad-con-visi-n-artificial./blob/main/Flux_Dev_Genera_una_imagen_digital_impactante_y_sofisticada_qu_1.jpeg" alt="Banner del Proyecto" width="100%">
 </div>
 
 # Proyecto de Ciencia de Datos: [**Good Seed – Verificación de Edad con visión artificial**](https://github.com/jserranom27/Good-Seed-Verificaci-n-de-Edad-con-visi-n-artificial./blob/main/vision_para_good_seed.ipynb) 🍇
